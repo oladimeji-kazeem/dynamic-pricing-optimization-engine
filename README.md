@@ -1,4 +1,4 @@
-## 📁 Case Study: Dynamic Pricing Optimization Engine (Middle East Retailer)
+## 📁 Dynamic Pricing Optimization Engine (Middle East Retailer)
 
 ### 🧩 Problem
 A regional electronics distributor was experiencing declining margins and inconsistent conversion rates due to static pricing that did not reflect real-time demand or competitive benchmarks. Sales teams were unable to adapt prices quickly enough to market shifts, resulting in lost opportunities and underpricing of premium products.
